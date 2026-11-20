@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Bolt
+.bolt/
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Build folders
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
